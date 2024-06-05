@@ -13,6 +13,9 @@ public class Lista1Atividade4 {
 		String palavra3;
 
 		System.out.println("Entre com a");
+		
+		// preciso estudar  Método String.equals() ou String.equalsIgnoreCase() para comparar as palavras
+		// irei voltar para finalizar essa atividade
 	}
 
 }
